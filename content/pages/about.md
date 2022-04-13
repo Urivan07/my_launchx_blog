@@ -9,6 +9,6 @@ menu:
 
 Hola, mi nombre es **Urivan Rubio** 🤩
 
-> Tengo actualmente 25 años y son del estado de Michoacan.
+> Tengo actualmente 25 años y soy del estado de Michoacan.
 > Soy egresado del Tecnológico Nacional de México campus Ciudad Hidalgo de la carrera de Ingeniería En Sistemas Computacionales.
 > Actualmente tengo laborando 2 años en la empresa llamada Talento Net como Desarrollador Web.
